@@ -1,0 +1,5 @@
+project = input("Enter project: ")
+description = input("Enter description: ")
+seq = input("Enter sequence: ")
+act_code = input("Enter activity code: ")
+hours = input("Enter hours: ")

@@ -1,0 +1,8 @@
+alt-j keyboard short cut runs auto hot key
+auto hot key runs batch file
+batch file changes working directory, then runs .py file
+
+need to place time.ahk in startup folder
+placed short cut in location below:
+C:\Users\gratten.ward\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+can all access by win+r 'shell:startup'
